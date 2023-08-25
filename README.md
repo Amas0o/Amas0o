@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amas0o
-- 👀 I’m interested in anything related to programming or computers honestly, also video games and anime.
+- 👀 I’m looking to collaborate on any software/game development projects.
 - 🌱 I’m currently doing a Computer Engineering Undfergraduate Degree from Middle East Technical University.
-- 💞️ I’m looking to collaborate on any software/game development projects.
+- 💞️ I’m interested in anything related to programming or computers honestly, also video games and anime.
 
 <!---
 Amas0o/Amas0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
